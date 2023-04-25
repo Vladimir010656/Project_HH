@@ -10,7 +10,7 @@
 
 Каждая часть выполнена jupyter-ноутбуке Project-1. Ноутбук-шаблон.ipynb.
 Исходные данные по проекту представлены в https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
-Построенные графика в формате .html  хранятся в Project_HH\plotly_hh
+Построенные графика в формате .html  хранятся в https://drive.google.com/drive/folders/1fxZzn6PtyeWsQ2WdC1p17xWGtIVBH1vI?hl=ru
 
 ## Использованные инструменты и библиотеки
 * numpy (1.20.3)
